@@ -14,4 +14,4 @@ More info about method: https://arxiv.org/abs/1111.0552
 
 To run the code you need to have model of cluster expecially luminosity, mass, color and stellar type of every single star. 
 
-Work is still in progress. Code is pretty chaotic. 
+Work is still in progress. Code is pretty chaotic but you can check last results in PDF and EPS files.
